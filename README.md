@@ -82,11 +82,7 @@ Based on the analysis, Vrinda Store can improve its business performance by:
 
 ## Dashboard Preview
 
-```markdown
-![Dashboard](dashboard.png)
-```
-
----
+![Dashboard Preview](dashboard.png)
 
 ## Project Files
 
